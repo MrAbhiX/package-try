@@ -1,1 +1,1 @@
-pyrogram-bot==2022.06.28
+pyrogram-bot
