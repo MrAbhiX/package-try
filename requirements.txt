@@ -1,1 +1,1 @@
-
+pyrogram-bot==1.4.0
