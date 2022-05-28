@@ -1,1 +1,1 @@
-pyrogram-bot
+git+https://github.com/mrabhix/pyrogram-bot
